@@ -5,6 +5,22 @@
    "routeList": "Bến xe Miền Đông",
    "type": "Giường",
    "from": "TPHCM",
-   "to": "Hà Nội"
- }
+   "to": "Hà Nội",
+   "ticket": {
+             "group1": {
+                 "a1": false,
+                 "a3": false,
+                 "a5": true,
+                 "a7": false,
+                 "a9": true
+             },
+             "group2": {
+                 "a2": true,
+                 "a4": false,
+                 "a6": false,
+                 "a8": false,
+                 "a10": true
+             }
+         }
+  }
 }
