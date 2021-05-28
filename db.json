@@ -7,20 +7,50 @@
    "from": "TPHCM",
    "to": "Hà Nội",
    "ticket": {
-             "group1": {
-                 "a1": false,
-                 "a3": false,
-                 "a5": true,
-                 "a7": false,
-                 "a9": true
-             },
-             "group2": {
-                 "a2": true,
-                 "a4": false,
-                 "a6": false,
-                 "a8": false,
-                 "a10": true
-             }
-         }
+            "group1": [
+                {
+                    "id": 1,
+                    "a1": false
+                },
+                {
+                    "id": 3,
+                    "a3": false
+                },
+                {
+                    "id": 5,
+                    "a5": true
+                },
+                {
+                    "id": 7,
+                    "a7": false
+                },
+                {
+                    "id": 9,
+                    "a9": true
+                }
+            ],
+            "group2": [
+                {
+                    "id": 2,
+                    "b2": false
+                },
+                {
+                    "id": 4,
+                    "b4": false
+                },
+                {
+                    "id": 6,
+                    "b6": true
+                },
+                {
+                    "id": 8,
+                    "b8": false
+                },
+                {
+                    "id": 10,
+                    "b10": true
+                }
+            ]
+        }
   }
 }
