@@ -10,45 +10,45 @@
             "group1": [
                 {
                     "id": 1,
-                    "a1": false
+                    "name": "A01",
+                    "status": false
                 },
                 {
                     "id": 3,
-                    "a3": false
+                    "name": "A03",
+                    "status": false
                 },
                 {
                     "id": 5,
-                    "a5": true
+                    "name": "A05",
+                    "status": true
                 },
                 {
                     "id": 7,
-                    "a7": false
-                },
-                {
-                    "id": 9,
-                    "a9": true
+                    "name": "A07",
+                    "status": false
                 }
             ],
             "group2": [
                 {
                     "id": 2,
-                    "b2": false
+                    "name": "B02",
+                    "status": true
                 },
                 {
                     "id": 4,
-                    "b4": false
+                    "name": "B04",
+                    "status": false
                 },
                 {
                     "id": 6,
-                    "b6": true
+                    "name": "B06",
+                    "status": true
                 },
                 {
                     "id": 8,
-                    "b8": false
-                },
-                {
-                    "id": 10,
-                    "b10": true
+                    "name": "B08",
+                    "status": false
                 }
             ]
         }
